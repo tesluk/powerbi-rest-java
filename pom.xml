@@ -6,13 +6,14 @@
 
     <groupId>com.satalyst.powerbi</groupId>
     <artifactId>powerbi-rest-api</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.1-SNAPSHOT</version>
 
     <dependencies>
+
         <dependency>
-            <groupId>com.microsoft.aad</groupId>
+            <groupId>com.microsoft.azure</groupId>
             <artifactId>adal4j</artifactId>
-            <version>0.0.2</version>
+            <version>1.4.0</version>
         </dependency>
 
         <dependency>
